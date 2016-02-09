@@ -1,1 +1,3 @@
-# learn_command_line_exercises
+# Learn Command Line
+
+This repo is homework I did
