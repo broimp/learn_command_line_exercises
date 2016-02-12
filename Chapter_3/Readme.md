@@ -1,6 +1,6 @@
 What host are you on?
 
-  Brookss-MBP:Chapter_3 $ hostname
+  Brookss-MBP:Chapter_3 $ hostname -f
   Brookss-MBP.skybeam.com
   
   I am currently hosted on the skybeam.com domain.
