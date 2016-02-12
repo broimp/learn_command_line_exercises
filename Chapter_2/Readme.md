@@ -30,3 +30,12 @@ Are you in the home directory?
 What directory did you run that command in?
 
   See previous answer. I ran that command in the class directory.
+
+Explain the process for finding the path with your graphical file browser (Finder).
+
+  Click on the Finder.
+  Enter "learn_command_line_exercises" in the search field.
+  Click on the item that has the blue folder, indicating a directory.
+  This brings up a list of Chapter directories in the folder.
+  Click on the arrows to expose their files and subdirectories as necessary.
+  
