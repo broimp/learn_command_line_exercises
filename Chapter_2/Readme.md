@@ -39,3 +39,9 @@ Explain the process for finding the path with your graphical file browser (Finde
   This brings up a list of Chapter directories in the folder.
   Click on the arrows to expose their files and subdirectories as necessary.
   
+  Once you find an item, file or directory, in Finder, you can put a copy
+    of the complete path to that item by two finger clicking on the item,
+    which brings up a menu of options. Go down to the line that says Copy
+    "item name" and click it. This puts the complete path into your copy
+    buffer, whence you can Cmd-V paste it at terminal level as an argument to
+    commands like CD and RM. 
