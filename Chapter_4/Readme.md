@@ -62,6 +62,10 @@ At terminal:
     so the answer is yes.
   
     mkdir log
+    cd log
+    pwd
+    Brookss-MBP:log $ pwd
+    /Users/bi/workspace/davinci_coders_t1_2016/log
   
   Make a directory with space in the name by putting quotes around it.
     temp$ mkdir "I Have Fun"
