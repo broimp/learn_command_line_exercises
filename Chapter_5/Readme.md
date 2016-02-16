@@ -94,15 +94,41 @@ Do More exercises
     
     Well, we do go into the temp directory, so I can't validate this question.
     
-  Can you go to the slash temp directory?
+  Can you go to the /tmp directory?
   
-    There is no /temp directory. That would be a temp directory at the root, and the 
-    temp diretories are hanging off Chapter directories.
+    Yes. The /tmp directory at root does not persist between login sessions.
     
-  Can you go to the slash temp slash log directory?
+    Brookss-MBP:Chapter_5 $ cd /tmp
+    
+    Brookss-MBP:tmp $ pwd
+    /tmp
+      
+    Brookss-MBP:tmp $ ls -la
+    total 576
+    drwxrwxrwt  10 root  wheel     340 Feb 16 13:48 .
+    drwxr-xr-x@  6 root  wheel     204 Oct 17 17:38 ..
+    -rw-rw-rw-@  1 bi    wheel       0 Feb 15 17:52 .keystone_install_lock
+    drwx------   3 bi    wheel     102 Feb 16 12:04 KSOutOfProcessFetcher.501.sAglCyxY5lzPoNgfmEvv-ZqGl-w=
+    drwx------   3 bi    wheel     102 Feb 15 17:48 com.apple.launchd.MX5k7JSgAC
+    drwx------   3 bi    wheel     102 Feb 15 17:48 com.apple.launchd.mUoShFnNSS
+    -rw-r--r--@  1 bi    wheel       0 Feb 15 17:48 ct.shutdown
+    drwxr-xr-x   2 bi    wheel      68 Feb 16 09:58 log
+    -rw-r--r--   1 root  wheel   71296 Feb 15 18:26 wifi-Gkqia8.log
+    -rw-r--r--   1 root  wheel  219569 Feb 15 17:56 wifi-g5zarG.log
+    
+  Can you go to the /tmp/log directory?
   
-    No, you can't go there either. The log directory is not a subdirectory of
-    either temp directory. 
+    Yes
+    Brookss-MBP:tmp $ mkdir log
+    
+    Brookss-MBP:tmp $ ls -la | grep log
+    drwxr-xr-x   2 bi    wheel      68 Feb 16 15:31 log
+    
+    Brookss-MBP:tmp $ cd log
+    
+    Brookss-MBP:log $ pwd
+    /tmp/log
+   
     
   What does the .. argument to cd do?
   
