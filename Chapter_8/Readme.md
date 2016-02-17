@@ -1,4 +1,4 @@
-Explain what the pushd and popd commands do.
+####Explain what the pushd and popd commands do.
 
   Pushd, followed by a directory path argument like dot for the current directory,
   makes a copy of the specified directory path in the pushd/pod stack.
@@ -7,10 +7,10 @@ Explain what the pushd and popd commands do.
   of directories to access might be useful for some sort of system maintenance. Probably 
   not of much utility in dynamic command line work.
 
-Explain what directories I used to test pushd/popd.
+####Explain what directories I used to test pushd/popd.
 
   I used the following:
-  
+```  
   Brookss-MBP:Chapter_8 $ tree
   .
   ├── Readme.md
@@ -29,3 +29,4 @@ Explain what directories I used to test pushd/popd.
           └── cake
   
   13 directories, 1 file
+```
