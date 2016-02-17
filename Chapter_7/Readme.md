@@ -1,5 +1,5 @@
-Make 20 more directories and remove them all.
-
+####Make 20 more directories and remove them all.
+```
   Brookss-MBP:Chapter_7 $ cd tmp
   
   (master) Brooks Imperial
@@ -54,9 +54,9 @@ Make 20 more directories and remove them all.
                       └── john
   
   6 directories, 0 files
-  
-Make a single path of dirs that is 10 deep and remove them one at a time.
-
+```  
+####Make a single path of dirs that is 10 deep and remove them one at a time.
+```
   Brookss-MBP:tmp $ mkdir -p 1/2/3/4/5/6/7/8/9/10
   
   (master) Brooks Imperial
@@ -132,16 +132,16 @@ Make a single path of dirs that is 10 deep and remove them one at a time.
   
   (master) Brooks Imperial
   Brookss-MBP:tmp $
-  
-Can you remove the tmp direcory?
+```  
+####Can you remove the tmp directory?
 
   Not with the rmdir command.
-  
+```  
   Brookss-MBP:Chapter_7 $ rmdir tmp
   rmdir: tmp: Directory not empty
-  
-Remove the tmp directory.
-
+```  
+####Remove the tmp directory.
+```
   Brookss-MBP:Chapter_7 $ rm -r tmp
   
   (master) Brooks Imperial
@@ -154,7 +154,7 @@ Remove the tmp directory.
   └── Readme.md
   
   0 directories, 1 file
-  
+```  
   If any of the subdirectories contained files, and they were to be also removed,
   use the "rm -rf" command.
 
