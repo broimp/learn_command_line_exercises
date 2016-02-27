@@ -1,0 +1,35 @@
+/Users/bi/.rvm/src/ruby-2.2.4/sample/trick2013/mame/music-box.mp4
+/Users/bi/Downloads/Git - Part 2.mp4
+/Users/bi/OReilly Ed/Ruby Intro/CodeRunner Code Editor Demo.mp4
+/Users/bi/OReilly Ed/Ruby Intro/CodeRunner Coursework Demo.mp4
+/Users/bi/OReilly Ed/Ruby Intro/CodeRunner File Management Demo.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/git_review_with_tim/Git - Part 1.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/git_review_with_tim/Git - Part 2.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/git_review_with_tim/Git - Part 3.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/adding_tests_to_homework.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/agile_retrospective.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/anki_intro_posse_cup.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/arrays.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/building_your_brand_wordpress_intro.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/fixing_rubocop_errors.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/git_101.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/git_101_warmup.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/git_102.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/git_branching_homework_review.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/intro_to_agile.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/learn_command_line_part_1.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/learn_command_line_part_2.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/lrthw_intro.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/making_it_stick.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/mentorship_intro.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/methods_and_flow_control.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/methods_and_recursion.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/numbers_letters_and_variables.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/pair_programming.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/pivotal_tracker_intro.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/questions_gitignore_mine_autocomplete.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/random_number_guesser.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/rescuetime_and_slack_intros.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/screen_hero_intro.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/toolbelt_intro.mp4
+/Users/bi/workspace/DaVinci_videos/DaVinci_Videos_T1_2016/in_class/tracker_warmup_and_posses.mp4
