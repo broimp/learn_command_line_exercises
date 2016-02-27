@@ -129,3 +129,15 @@ Brookss-MacBook-Pro:tmp $ cat all_videos.txt
 
 (master) Brooks Imperial
 ```
+> Run find in the class directory, pipe the output to pbcopy and create
+> a gist with the content. Run find in the class directory, pipe the
+> output to pbcopy and create a gist with the content.  
+> Paste the Gist URL as a comment on this story.
+
+```
+https://gist.github.com/broimp/34056eea75961f95483d
+```
+
+
+
+ 
