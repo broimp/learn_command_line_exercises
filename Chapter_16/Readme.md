@@ -3,14 +3,14 @@
 > Can you output all the txt files in this directory?
 
 ```
-Brookss-MacBook-Pro:tmp $ ls *.*
+Brookss-MacBook-Pro:tmp $ ls *.txt
 another.txt bar.txt     ex12.txt    ex13.txt    ex15.txt    foo.txt
 ```
 
 > Show me the content of the text files in slash temp.
 
 ```
-Brookss-MacBook-Pro:tmp $ cat *.*
+Brookss-MacBook-Pro:tmp $ cat *.txt
 I am a new file.
 This class is fun
 Hi there this is cool.
