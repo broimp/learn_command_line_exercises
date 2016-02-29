@@ -145,6 +145,8 @@ Brookss-MBP:tmp $ grep intro all_videos.txt
 
 > Unix: You can use -i to ignore case with grep. Try grep -i new *.txt
 
+The -i option causes gretp to ignore the case of the search string.
+
 ```
 (master) Brooks Imperial
 Brookss-MBP:tmp $ grep -i new *.txt
