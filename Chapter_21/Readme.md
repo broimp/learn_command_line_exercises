@@ -98,3 +98,31 @@ bin:/usr/sbin:/sbin:/Users/bi/.rvm/bin
 
 **NOTE: I will NOT be experimenting with changing my default path at this time. There's 
 too much that could go wrong and cost me hours to recover.
+
+> What is your shell set to?
+
+```
+SHELL=/bin/bash
+```
+
+> What directory are you in (don't use pwd this time)?
+
+```
+OLDPWD=/Users/bi/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/Chapter_20
+```
+
+> What is your home directory set to?
+
+```
+HOME=/Users/bi
+```
+
+> Can you set your environment to have DEBUG set to true?
+
+```
+Brookss-MBP:learn_command_line_exercises $ export DEBUG=true
+
+(master) Brooks Imperial
+Brookss-MBP:learn_command_line_exercises $ env | grep DEBUG
+DEBUG=true
+```
