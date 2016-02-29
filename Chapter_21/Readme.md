@@ -90,14 +90,16 @@ Brookss-MBP:learn_command_line_exercises $ echo $TESTING
 export PATH=$PATH:/usr/local/foo  (for example)
 
 ```
-Brookss-MBP:learn_command_line_exercises $ echo $PATH
-/Users/bi/.rvm/gems/ruby-2.2.4/bin:/Users/bi/.rvm/gems/ruby-2.2.4@global/
-bin:/Users/bi/.rvm/rubies/ruby-2.2.4/bin:/usr/local/bin:/usr/bin:/
-bin:/usr/sbin:/sbin:/Users/bi/.rvm/bin
-```
+Brookss-MBP:learn_command_line_exercises $ cat path.txt
+/Users/bi/.rvm/gems/ruby-2.2.4/bin:/Users/bi/.rvm/gems/ruby-2.2.4@global/bin:/Users/bi/.rvm/rubies/ruby-2.2.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/bi/.rvm/bin
 
-**NOTE: I will NOT be experimenting with changing my default path at this time. There's 
-too much that could go wrong and cost me hours to recover.
+(master) Brooks Imperial
+Brookss-MBP:learn_command_line_exercises $ export PATH=$PATH:/users/bi/Documents
+
+(master) Brooks Imperial
+Brookss-MBP:learn_command_line_exercises $ echo $PATH
+/Users/bi/.rvm/gems/ruby-2.2.4/bin:/Users/bi/.rvm/gems/ruby-2.2.4@global/bin:/Users/bi/.rvm/rubies/ruby-2.2.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/bi/.rvm/bin:/users/bi/Documents```
+```
 
 > What is your shell set to?
 
