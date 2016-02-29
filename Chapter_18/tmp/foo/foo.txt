@@ -1,5 +1,5 @@
 error 1
-error 2
+ERROR 2
 success 3
 success 4
 

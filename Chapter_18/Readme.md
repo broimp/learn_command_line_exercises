@@ -3,9 +3,15 @@
 > Show me the lines in foo.txt that have "ERROR" in them.
 
 ```
-Brookss-MBP:foo $ cat foo.txt | grep -n error
-1:error 1
-2:error 2
+Brookss-MBP:foo $ cat foo.txt | grep -n ERROR
+2:ERROR 2
+
+(master) Brooks Imperial
+Brookss-MBP:foo $ cat foo.txt
+error 1
+ERROR 2
+success 3
+success 4
 ```
 
 > Show me the lines in bar.txt that have "davinci" in them.
@@ -13,6 +19,15 @@ Brookss-MBP:foo $ cat foo.txt | grep -n error
 ```
 Brookss-MBP:tmp $ cat bar.txt | grep -n Davinci
 1:This Davinci class is fun
+
+(master) Brooks Imperial
+Brookss-MBP:tmp $ cat bar.txt | grep -n davinci
+
+(no output for lower case search)
+
+Brookss-MBP:tmp $ cat bar.txt
+This Davinci class is fun
+
 ```
 
 > Can you print all the lines in text files that have your first and last name in them?
