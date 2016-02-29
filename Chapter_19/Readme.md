@@ -3,18 +3,42 @@
 > What option to ls tells it to output file size in human readable form?
 
 ```
-Three options deal with ls size, but they don't say anything about being human readable.
- Can't validate the question.
+It must be the -h option. Though B's and K's would only be human-sensible
+to a tiny subset of humanity.
 
-Brookss-MBP:learning_by_doing $ man ls | grep size
-     -@      Display extended attribute keys and sizes in long (-l) output.
-             number of digits to three or less using base 2 for sizes.
-     -k      If the -s option is specified, print the file size allocation in
-             file sizes is output on a line before the long listing.
-             bined with sort by size
-     -S      Sort files by size
-             total sum for all the file sizes is output on a line before the
-             size of 512 bytes.
+Brookss-MBP:learn_command_line_exercises $ ls -ahl
+total 40
+drwxr-xr-x  30 bi  staff   1.0K Feb 26 18:37 .
+drwxr-xr-x  10 bi  staff   340B Feb 24 18:58 ..
+-rw-r--r--@  1 bi  staff   8.0K Feb 15 11:08 .DS_Store
+drwxr-xr-x  15 bi  staff   510B Feb 29 09:36 .git
+drwxr-xr-x   9 bi  staff   306B Feb 29 09:36 .idea
+drwxr-xr-x   4 bi  staff   136B Feb 28 12:49 Chapter_1
+drwxr-xr-x   4 bi  staff   136B Feb 22 21:29 Chapter_10
+drwxr-xr-x   5 bi  staff   170B Feb 25 13:11 Chapter_11
+drwxr-xr-x   5 bi  staff   170B Feb 28 13:23 Chapter_12
+drwxr-xr-x   4 bi  staff   136B Feb 26 11:10 Chapter_13
+drwxr-xr-x   4 bi  staff   136B Feb 26 12:07 Chapter_14
+drwxr-xr-x   4 bi  staff   136B Feb 26 14:31 Chapter_15
+drwxr-xr-x   4 bi  staff   136B Feb 28 09:52 Chapter_16
+drwxr-xr-x   4 bi  staff   136B Feb 26 19:08 Chapter_17
+drwxr-xr-x   4 bi  staff   136B Feb 29 09:35 Chapter_18
+drwxr-xr-x   4 bi  staff   136B Feb 28 20:25 Chapter_19
+drwxr-xr-x   4 bi  staff   136B Feb 14 14:52 Chapter_2
+drwxr-xr-x   4 bi  staff   136B Feb 28 20:46 Chapter_20
+drwxr-xr-x   4 bi  staff   136B Feb 28 21:17 Chapter_21
+drwxr-xr-x   4 bi  staff   136B Feb 28 21:55 Chapter_22
+drwxr-xr-x   4 bi  staff   136B Feb 28 22:30 Chapter_23
+drwxr-xr-x   3 bi  staff   102B Feb 12 11:58 Chapter_3
+drwxr-xr-x   5 bi  staff   170B Feb 13 19:10 Chapter_4
+drwxr-xr-x   5 bi  staff   170B Feb 16 15:42 Chapter_5
+drwxr-xr-x   5 bi  staff   170B Feb 16 16:57 Chapter_6
+drwxr-xr-x   4 bi  staff   136B Feb 16 18:32 Chapter_7
+drwxr-xr-x   7 bi  staff   238B Feb 16 18:34 Chapter_8
+drwxr-xr-x   4 bi  staff   136B Feb 24 10:40 Chapter_9
+-rw-r--r--   1 bi  staff    65B Feb 11 17:07 README.md
+-rw-r--r--   1 bi  staff   3.0K Feb 26 18:38 all_videos.txt
+
 ```
 
 > Is there a case insensitive option to grep?
